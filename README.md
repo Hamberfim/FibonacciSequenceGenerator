@@ -1,2 +1,2 @@
-# FibonacciSequenceGenerator
-with user input -  generate a Fibonacci sequence
+### Fibonacci Sequence Generator
+This program generate a Fibonacci sequence with user input
