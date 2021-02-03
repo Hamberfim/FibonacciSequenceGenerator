@@ -1,0 +1,13 @@
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\bin\Debug\netcoreapp3.1\ListsFibonacciNumbers.exe
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\bin\Debug\netcoreapp3.1\ListsFibonacciNumbers.deps.json
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\bin\Debug\netcoreapp3.1\ListsFibonacciNumbers.runtimeconfig.json
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\bin\Debug\netcoreapp3.1\ListsFibonacciNumbers.runtimeconfig.dev.json
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\bin\Debug\netcoreapp3.1\ListsFibonacciNumbers.dll
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\bin\Debug\netcoreapp3.1\ListsFibonacciNumbers.pdb
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.AssemblyInfo.cs
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.dll
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.pdb
+C:\Users\adhamlin\Documents\GitHub\CplusCsharp_pubs\ListsFibonacciNumbers\obj\Debug\netcoreapp3.1\ListsFibonacciNumbers.genruntimeconfig.cache
